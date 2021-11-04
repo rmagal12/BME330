@@ -1,2 +1,2 @@
 # BME330
-**Quantitative Biomedicine**
+*Quantitative Biomedicine*
